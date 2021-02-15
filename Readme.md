@@ -1,8 +1,3 @@
-# How to access item data from dxList in the dxButton.click event handler when dxButton is placed in the dxList item template
+# This example is obsolete
 
-
-<p>This example demonstrates how to access item data from <a href="http://phonejs.devexpress.com/Documentation/ApiReference/Widgets/dxList"><u>dxList</u></a> in the <strong>dxButton.click</strong> event handler when <a href="http://phonejs.devexpress.com/Documentation/ApiReference/Widgets/dxButton"><u>dxButton</u></a> is placed in the dxList <strong>item</strong> template</p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
